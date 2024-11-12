@@ -33,6 +33,6 @@ Before installing React JS, you need to have the following software installed on
 - This command creates a new React project named my-custom-react-app. It installs all necessary dependencies and sets up the project structure.
 
 #### 3. Start the React Application
-1. To start your React application, use the following command in your terminal:
+- To start your React application, use the following command in your terminal:
    ```bash
    npm start
